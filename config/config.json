@@ -1,0 +1,7 @@
+{
+    "development":
+    {
+        "dialect":"postgres",
+        "url":"postgresql://postgres://postgres:admin@localhost:5432/interview"
+    }
+}
